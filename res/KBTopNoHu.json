@@ -105,7 +105,7 @@
                 "Children": [
                   {
                     "FontSize": 46,
-                    "LabelText": "LỊCH SỬ TRÚNG HŨ",
+                    "LabelText": "ИСТОРИЯ ДЖЕКПОТОВ",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/arialbd.ttf",

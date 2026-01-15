@@ -4458,7 +4458,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 60,
-                    "LabelText": "CHỌN DÒNG",
+                    "LabelText": "ВЫБЕРИТЕ ЛИНИЮ",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Bitsumishi-Pro.ttf",
@@ -5226,7 +5226,7 @@
                 "Children": [
                   {
                     "FontSize": 22,
-                    "LabelText": "Âm thanh",
+                    "LabelText": "Звук",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Mobifone-KT.ttf",
@@ -5430,7 +5430,7 @@
                   },
                   {
                     "FontSize": 22,
-                    "LabelText": "Nhạc nền",
+                    "LabelText": "Музыка",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Mobifone-KT.ttf",

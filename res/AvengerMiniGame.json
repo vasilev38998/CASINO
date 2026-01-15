@@ -3056,7 +3056,7 @@
                   },
                   {
                     "FontSize": 36,
-                    "LabelText": "CHÚC MỪNG BẠN ĐÃ THẮNG",
+                    "LabelText": "ПОЗДРАВЛЯЕМ, ВЫ ВЫИГРАЛИ",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Bitsumishi-Pro.ttf",

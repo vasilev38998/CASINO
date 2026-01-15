@@ -4250,7 +4250,7 @@
                       {
                         "IsCustomSize": true,
                         "FontSize": 22,
-                        "LabelText": "CHÚC MỪNG BẠN ĐÃ THẮNG",
+                        "LabelText": "ПОЗДРАВЛЯЕМ, ВЫ ВЫИГРАЛИ",
                         "FontResource": {
                           "Type": "Normal",
                           "Path": "Font/UTM-Mobifone-KT.ttf",
@@ -4849,7 +4849,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 60,
-                    "LabelText": "CHỌN DÒNG",
+                    "LabelText": "ВЫБЕРИТЕ ЛИНИЮ",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Bitsumishi-Pro.ttf",
@@ -5165,7 +5165,7 @@
                   },
                   {
                     "FontSize": 22,
-                    "LabelText": "Âm thanh",
+                    "LabelText": "Звук",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Mobifone-KT.ttf",
@@ -5219,7 +5219,7 @@
                   },
                   {
                     "FontSize": 22,
-                    "LabelText": "Nhạc nền",
+                    "LabelText": "Музыка",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Mobifone-KT.ttf",

@@ -3313,7 +3313,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 36,
-                    "LabelText": "Bạn còn 8 lượt quay miễn phí",
+                    "LabelText": "У вас осталось 8 бесплатных вращений",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/Roboto-Black.ttf",
@@ -4458,7 +4458,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 60,
-                    "LabelText": "CHỌN DÒNG",
+                    "LabelText": "ВЫБЕРИТЕ ЛИНИЮ",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Bitsumishi-Pro.ttf",
@@ -4579,7 +4579,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 32,
-                    "LabelText": "Bạn nhận được 8 lượt quay miễn phí",
+                    "LabelText": "Вы получили 8 бесплатных вращений",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Bitsumishi-Pro.ttf",
@@ -4637,7 +4637,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 46,
-                    "LabelText": "Thông báo",
+                    "LabelText": "Уведомление",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Bitsumishi-Pro.ttf",
@@ -4814,7 +4814,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 30,
-                    "LabelText": "Bạn đã quay xong lượt quay miễn phí",
+                    "LabelText": "Вы завершили бесплатные вращения",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Bitsumishi-Pro.ttf",
@@ -5226,7 +5226,7 @@
                 "Children": [
                   {
                     "FontSize": 22,
-                    "LabelText": "Âm thanh",
+                    "LabelText": "Звук",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Mobifone-KT.ttf",
@@ -5430,7 +5430,7 @@
                   },
                   {
                     "FontSize": 22,
-                    "LabelText": "Nhạc nền",
+                    "LabelText": "Музыка",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/UTM-Mobifone-KT.ttf",

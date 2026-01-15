@@ -2559,7 +2559,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 14,
-                    "LabelText": "Thời gian: từ ngày 01 hàng tháng đến hết ngày 30 của tháng đó (30 ngày)\n\n\n\n\n\n\n\n\n\n\n\n\nGiải chung cuộc dành cho người đạt được bộ bài lớn nhất theo tiêu chí xếp hạng ở trên mà hệ thống ghi nhận từng ngày \ntrong suốt thời gian diễn ra sự kiện.\n\n\n- Áp dụng cho tất cả người chơi minigame Cao Thấp bằng đồng Gold trên cổng game dân gian\n\n\nTrong suốt thời gian diễn ra sự kiện, khách hàng tham gia chơi minigame Cao Thấp bằng đồng Gold có cơ hội nhận được \nnhiều giải thưởng                                                cho giải chung cuộc.\n- Trong một phiên chơi minigame Cao Thấp, hệ thống sẽ tự động chọn ra 5 lá bài trong những lá bài được mở để ghép \nthành bộ bài cao nhất theo luật game Poker (không tính chất của bộ bài).\n- Phiên chơi hợp lệ là phiên chơi có ít nhất 5 lượt chơi và lượt chơi cuối cùng là lượt thắng.\n- Giải ngày thống kê từ 0h00 đến 23h59.\n\n\n\n- Bộ bài cao nhất mà hệ thống ghi nhận từng ngày\n- Tiền thắng lớn nhất\n- Thời gian đạt được bộ bài cao nhất sớm hơn (thời điểm kết thúc phiên chơi)\n\n\n\n- Giải thưởng Gold sẽ được trao vào lúc 0h30 ngày kế tiếp.\n- Giải thưởng vật lý sẽ được trao trong vòng 1 tuần ngay sau khi kết thúc sự kiện, giải thưởng vật lý không bao gồm các \nphụ phí liên quan.\n- Giải thưởng vật lý có thể quy đổi thành GOLD\n- Một tài khoản có thể nhận được nhiều giải thưởng ngày khác nhau.\n- Trong trường hợp có tranh chấp, quyết định của BTC là quyết định cuối cùng.",
+                    "LabelText": "Thời gian: từ ngày 01 hàng tháng đến hết ngày 30 của tháng đó (30 ngày)\n\n\n\n\n\n\n\n\n\n\n\n\nИтоговый приз dành cho người đạt được bộ bài lớn nhất theo tiêu chí xếp hạng ở trên mà hệ thống ghi nhận từng ngày \ntrong suốt thời gian diễn ra sự kiện.\n\n\n- Áp dụng cho tất cả người chơi minigame Cao Thấp bằng đồng Gold trên cổng game dân gian\n\n\nTrong suốt thời gian diễn ra sự kiện, khách hàng tham gia chơi minigame Cao Thấp bằng đồng Gold có cơ hội nhận được \nnhiều giải thưởng                                                cho giải chung cuộc.\n- Trong một phiên chơi minigame Cao Thấp, hệ thống sẽ tự động chọn ra 5 lá bài trong những lá bài được mở để ghép \nthành bộ bài cao nhất theo luật game Poker (không tính chất của bộ bài).\n- Phiên chơi hợp lệ là phiên chơi có ít nhất 5 lượt chơi và lượt chơi cuối cùng là lượt thắng.\n- Giải ngày thống kê từ 0h00 đến 23h59.\n\n\n\n- Bộ bài cao nhất mà hệ thống ghi nhận từng ngày\n- Tiền thắng lớn nhất\n- Thời gian đạt được bộ bài cao nhất sớm hơn (thời điểm kết thúc phiên chơi)\n\n\n\n- Giải thưởng Gold sẽ được trao vào lúc 0h30 ngày kế tiếp.\n- Giải thưởng vật lý sẽ được trao trong vòng 1 tuần ngay sau khi kết thúc sự kiện, giải thưởng vật lý không bao gồm các \nphụ phí liên quan.\n- Giải thưởng vật lý có thể quy đổi thành GOLD\n- Một tài khoản có thể nhận được nhiều giải thưởng ngày khác nhau.\n- Trong trường hợp có tranh chấp, quyết định của BTC là quyết định cuối cùng.",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/tahoma.ttf",
@@ -4392,7 +4392,7 @@
                   },
                   {
                     "FontSize": 15,
-                    "LabelText": "Giải chung cuộc",
+                    "LabelText": "Итоговый приз",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Font/tahoma.ttf",

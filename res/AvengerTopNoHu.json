@@ -114,7 +114,7 @@
               },
               {
                 "FontSize": 50,
-                "LabelText": "LỊCH SỬ TRÚNG HŨ",
+                "LabelText": "ИСТОРИЯ ДЖЕКПОТОВ",
                 "FontResource": {
                   "Type": "Normal",
                   "Path": "Font/UTM-Bitsumishi-Pro.ttf",
